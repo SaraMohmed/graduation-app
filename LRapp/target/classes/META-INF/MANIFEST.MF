@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.panel.LRapp.LRappApplication
+Class-Path: D:\lectureSpring\GraduationProject\LRapp\src\main\java\com\p
+ anel\LRapp\LRappApplication
+
